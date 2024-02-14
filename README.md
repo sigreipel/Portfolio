@@ -6,5 +6,5 @@ I am looking for an internship opportunity in software development, data enginee
 and education acquired through my college courses, experience and background.
 
 # My Projects:
-Project 1 is a final project for my data structures class. This final project currently doesn't work because the API website does not exist anymore.
-
+Project 1:
+Final project for my data structures class. This final project currently doesn't work because the API website does not exist anymore.

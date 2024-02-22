@@ -8,6 +8,7 @@ and education acquired through my college courses, experience, and background.
 # My Projects:
 CS066 Final Project:
 The final project for my data structures class. This final project currently doesn't work because the API website no longer exists.
+
 Peg Elimination Game:
 A current personal project to simulate the Peg Solitare game. It is also known as the Crackerbarrel Peg Game. 
 All of the rules are implemented and the game works, however, the UI is not friendly, and my next step for this project.

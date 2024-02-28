@@ -1,3 +1,5 @@
+# Svetlana Greipel
+# Description: Takes in an input value and converts the value to either a roman numeral or an integer.
 class RomanNumeralConversion:
 
     def convertToRomanNumeral(self, number):

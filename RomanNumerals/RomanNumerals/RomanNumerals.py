@@ -3,7 +3,7 @@
 class RomanNumeralConversion:
 
     def convertToRomanNumeral(self, number):
-        if number == str or number <= 0 or number >= 4000:
+        if number == str or number <= 0 or number >= 4000:                        # Test for str, 0 or negatives, or greater than 4000
             raise Exception('The entered value cannot be converted to a roman numeral.')
 
         num_list = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1]  # lists num and conv are the same length

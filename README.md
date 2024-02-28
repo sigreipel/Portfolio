@@ -8,6 +8,7 @@ and education acquired through my college courses, experience, and background.
 # My Projects:
 CS066 Final Project:
 The final project for my data structures class. This final project currently doesn't work because the API website no longer exists.
+I have added a video of my project working.
 
 Roman Numerals:
 A small project that helps demonstrate my Python skills. 

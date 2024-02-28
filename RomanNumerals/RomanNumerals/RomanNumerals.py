@@ -46,8 +46,7 @@ class RomanNumeralConversion:
 
 if __name__ == "__main__":
     conversion = RomanNumeralConversion()
-    # print(conversion.convertToRomanNumeral("cheese"))
-    print(conversion.convertToRomanNumeral(63))
-
-    # print(conversion.convertToInteger("20"))
-    print(conversion.convertToInteger("LXIII"))
+    int_value = 63
+    print("You entered: {} \nThe roman numeral conversion: {}".format(int_value,conversion.convertToRomanNumeral(int_value)))
+    rm_value = "LXIII"
+    print("You entered: {} \nThe integer conversion: {}".format(rm_value,conversion.convertToInteger(rm_value)))

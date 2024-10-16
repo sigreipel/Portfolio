@@ -1,6 +1,6 @@
 # Introduction:
 
-Hello my name is Svetlana. I am currently a college student at Drake University. I am currently a Computer Science Major and a Data Analytics Minor.
+Hello my name is Svetlana. I am currently a college student at Drake University. I am currently a Computer Science Major and Data Analytics and AI Minor.
 
 I am looking for an internship opportunity in software development, data engineering, or other related areas that allows me to apply the skills
 and education acquired through my college courses, experience, and background.

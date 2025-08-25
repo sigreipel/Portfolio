@@ -7,19 +7,25 @@ I am a computer science graduate looking for a full-time job opportunity in soft
 or another related area that allows me to apply the skills and education acquired through my college courses, experience, and background.
 
 # My Projects:
-Data Structures Final Project: [Data structures FP repository](https://github.com/sigreipel/DataStructures-Final-Project)
+## Data Structures Final Project: 
+
+[Data Structures FP Repo](https://github.com/sigreipel/DataStructures-Final-Project)
 
 The final project for my data structures class. This final project currently doesn't work because the API website no longer exists.
 This project demonstrates my ability to successfully use APIs. I have added a video of my project working.
 
 ## Roman Numerals:
+
+[Roman Numerals Repo](https://github.com/sigreipel/RomanNumerals)
+
 A small project that helps demonstrate my Python skills. 
 Takes in an input value and converts the value to either a Roman numeral or an integer.
 I have added additional unit tests in another folder called `Tests`.
 
 ## Peg Elimination Game: 
 
-[Peg Solitaire repository](https://github.com/sigreipel/PegSolitaireGame)
+[Peg Solitaire Repo](https://github.com/sigreipel/PegSolitaireGame)
+
 A current personal project to simulate the Peg Solitaire game. It is also known as the Crackerbarrel Peg Game. 
 All of the rules are implemented and the game works; however, the UI is not friendly, and my next step for this project.
 

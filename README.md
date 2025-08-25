@@ -11,16 +11,16 @@ CS066 Final Project:
 The final project for my data structures class. This final project currently doesn't work because the API website no longer exists.
 This project demonstrates my ability to successfully use APIs. I have added a video of my project working.
 
-##Roman Numerals:
+## Roman Numerals:
 A small project that helps demonstrate my Python skills. 
 Takes in an input value and converts the value to either a Roman numeral or an integer.
 I have added additional unit tests in another folder called `Tests`.
 
-##Peg Elimination Game:
+## Peg Elimination Game:
 A current personal project to simulate the Peg Solitaire game. It is also known as the Crackerbarrel Peg Game. 
 All of the rules are implemented and the game works; however, the UI is not friendly, and my next step for this project.
 
-##Game Recommendation Platform:
+## Game Recommendation Platform:
 Django-based web application that aggregates and recommends video game news, updates, and developer information. It allows users to personalize their experience by following or blocking specific games or developers. The platform also includes a custom authentication system and a structured database design.
 
   __Features:__

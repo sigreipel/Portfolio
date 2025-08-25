@@ -1,14 +1,14 @@
 # Introduction:
 
-Hello my name is Svetlana. I am currently a college student at Drake University. I am currently a Computer Science Major and Data Analytics and AI Minor.
+Hello my name is Svetlana. I am a college graduate at Drake University. I graduated with a Computer Science Major and Data Analytics and AI Minor.
 
-I am looking for an internship opportunity in software development, data engineering, or other related areas that allows me to apply the skills
-and education acquired through my college courses, experience, and background.
+I am a computer science graduate looking for a full time job opportunity in software\development, data engineering, entry level IT or  
+another related area that allows me to apply the skills and education acquired through my college courses, experience and background.
 
 # My Projects:
 CS066 Final Project:
 The final project for my data structures class. This final project currently doesn't work because the API website no longer exists.
-I have added a video of my project working.
+This project demonstrates my ability to successully use APIs. I have added a video of my project working.
 
 Roman Numerals:
 A small project that helps demonstrate my Python skills. 

@@ -11,36 +11,42 @@ CS066 Final Project:
 The final project for my data structures class. This final project currently doesn't work because the API website no longer exists.
 This project demonstrates my ability to successfully use APIs. I have added a video of my project working.
 
-Roman Numerals:
+##Roman Numerals:
 A small project that helps demonstrate my Python skills. 
 Takes in an input value and converts the value to either a Roman numeral or an integer.
 I have added additional unit tests in another folder called `Tests`.
 
-Peg Elimination Game:
+##Peg Elimination Game:
 A current personal project to simulate the Peg Solitaire game. It is also known as the Crackerbarrel Peg Game. 
 All of the rules are implemented and the game works; however, the UI is not friendly, and my next step for this project.
 
-Game Recommendation Platform:
+##Game Recommendation Platform:
 Django-based web application that aggregates and recommends video game news, updates, and developer information. It allows users to personalize their experience by following or blocking specific games or developers. The platform also includes a custom authentication system and a structured database design.
-    __Features:__
+
+  __Features:__
     Custom Authentication System
     - Using Django's `AbstractUser` and email as a login field.
     - Personalized user features (Following/Blocking games or developers)
-    Game & Developer Database
+    
+  Game & Developer Database
     - Populated custom `placeholder_db.py` for script testing and UI prototyping.
     - Stores structured data on users, games, and developers.
-    Game News Aggregation
+    
+  Game News Aggregation
     - Fetches and organizes data from multiple sources.
     - Filtering and displays relevant information based on user preferences.
-    Scalable Backend
+    
+  Scalable Backend
     - Built with Django, allowing SQLite for development.
     - Designed with other databases and cloud implementation in mind (AWS)
-    __TechStack:__
+    
+  __TechStack:__
     Backend: Django (Python)
     Database: SQLite
     Frontend: Django templates, HTML, CSS
     Cloud Deployment: AWS (future integration)
-    __Future Improvements__
+    
+  __Future Improvements__
     - Full integration of real-time news API feeds
     - Advancing recommendations using filtering or ML personalization.
     - Deployment with Docker, Lambda, and AWS

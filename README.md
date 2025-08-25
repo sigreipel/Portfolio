@@ -45,6 +45,7 @@ Django-based web application that aggregates and recommends video game news, upd
   - Designed with other databases and cloud implementation in mind (AWS)
     
 <ins>__TechStack:__</ins>
+
   Backend: Django (Python)
   
   Database: SQLite

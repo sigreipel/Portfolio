@@ -19,8 +19,28 @@ All of the rules are implemented and the game works; however, the UI is not frie
 
 Game Recommendation Platform:
 Django-based web application that aggregates and recommends video game news, updates, and developer information. It allows users to personalize their experience by following or blocking specific games or developers. The platform also includes a custom authentication system and a structured database design.
+
     Features:
     Custom Authentication System
-    - Using Django's [AbstractUser] and email as login field.
+    - Using Django's `AbstractUser` and email as login field.
     - Personalized user features (Following/Blocking games or developers)
     Game & Developer Database
+    - Populated custom `placeholder_db.py` for script testing and UI prototyping.
+    - Stores structured data on users, games, and developers.
+    Game News Aggregation
+    - Fetches and organizes data from multiple sources.
+    - Filtering and displays relevant information based on user preferences.
+    Scalable Backend
+    - Built with Django, allowing SQLite for development.
+    - Designed with other databases and cloud implementation in mind (AWS)
+    
+    TechStack:
+    Backend: Django (Python)
+    Database: SQLite
+    Frontend: Django templates, HTML, CSS
+    Cloud Deployment: AWS (future integration)
+
+    Future Improvements
+    - Full integration of real-time news API feeds
+    - Advancing recommendations using filtering or ML personalization.
+    - Deployment with Docker, Lambda, and AWS

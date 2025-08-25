@@ -17,7 +17,9 @@ A small project that helps demonstrate my Python skills.
 Takes in an input value and converts the value to either a Roman numeral or an integer.
 I have added additional unit tests in another folder called `Tests`.
 
-## Peg Elimination Game:
+## Peg Elimination Game: 
+
+[Peg Solitaire repository](https://github.com/sigreipel/PegSolitaireGame)
 A current personal project to simulate the Peg Solitaire game. It is also known as the Crackerbarrel Peg Game. 
 All of the rules are implemented and the game works; however, the UI is not friendly, and my next step for this project.
 

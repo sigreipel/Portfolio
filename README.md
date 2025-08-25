@@ -8,6 +8,7 @@ or another related area that allows me to apply the skills and education acquire
 
 # My Projects:
 Data Structures Final Project: [Data structures FP repository](https://github.com/sigreipel/DataStructures-Final-Project)
+
 The final project for my data structures class. This final project currently doesn't work because the API website no longer exists.
 This project demonstrates my ability to successfully use APIs. I have added a video of my project working.
 

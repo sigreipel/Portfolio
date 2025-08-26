@@ -30,6 +30,9 @@ A current personal project to simulate the Peg Solitaire game. It is also known 
 All of the rules are implemented and the game works; however, the UI is not friendly, and my next step for this project.
 
 ## Game Recommendation Platform:
+
+[Game Recommendation Platform Repo](https://github.com/sigreipel/GameAggregatorCapstone/tree/main)
+
 Django-based web application that aggregates and recommends video game news, updates, and developer information. It allows users to personalize their experience by following or blocking specific games or developers. The platform also includes a custom authentication system and a structured database design.
 
 <ins>__Features:__</ins>

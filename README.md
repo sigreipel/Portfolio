@@ -1,19 +1,53 @@
 # Introduction:
 
 Hello, my name is Svetlana. I am a college graduate from Drake University. 
-I graduated with a Computer Science Major and a Data Analytics and AI Minor.
+I graduated with a major in Computer Science and a minor in Data Analytics and AI.
 
-I am a computer science graduate looking for a full-time job opportunity in software development, data engineering, entry-level IT, 
-or another related area that allows me to apply the skills and education acquired through my college courses, experience, and background.
+I am a computer science graduate seeking a full-time job opportunity in software development, data engineering, entry-level IT, or another related field that allows me to apply the skills and knowledge acquired through my college courses, experience, and background.
 
 # My Projects:
-## Data Structures Final Project: 
+## Studio Ghibli Movie Explorer: 
 
 [Data Structures FP Repo](https://github.com/sigreipel/DataStructures-Final-Project)
 
-The final project for my data structures class. This final project currently doesn't work because the API website no longer exists.
-This project demonstrates my ability to successfully use APIs. I have added a video of my project working.
+_Studio Ghibli Movie Explorer_ is an interactive program designed to retrieve and display information about Studio Ghibli films. The JSON data is obtained from the [Studio Ghibli API](https://ghibliapi.vercel.app/#), parsed into python data structures, sorted the films alphabetically using the insertion sort algorithm, and presented through a GUI built with Tkinter.
 
+<ins>Features:</ins>
+  API Integration
+  
+  - Retrieves live movie data from the Studio Ghibli API.
+  - Parses JSON into Python data structures (lists and dictionaries).
+  
+  Sorting Algorithm
+  
+  - Implements a custom insertion sort for ordering movies alphabetically by title.
+  - Reinforces understanding of algorithm design and efficiency trade-offs.
+  
+  Graphical User Interface
+  
+  - Tkinter-based interface to display film details including title, director, release date, and description.
+  - Provides structured and user-friendly movie browsing.
+  
+  Data Structures
+  
+  - Lists used for managing collections of movie objects.
+  - Dictionaries used for storing individual movie attributes.
+  
+  <ins>TechStack:</ins>
+  
+  Language: Python
+  
+  Libraries: Tkinter, Requests (for API calls), JSON
+  
+  Algorithm: Insertion Sort
+  
+  <ins>Future Improvements</ins>
+  
+  - Replace with a more efficient algorithm (e.g., merge sort or quicksort) for scalability.
+  - Add filtering or searching functionality by director, release year, or rating.
+  - Expand the GUI with images, better layout, and improved interactivity.
+  - Cache or locally store API results to improve performance and usability offline.
+    
 ## Roman Numerals:
 
 [Roman Numerals Repo](https://github.com/sigreipel/RomanNumerals)
@@ -33,7 +67,7 @@ All of the rules are implemented and the game works; however, the UI is not frie
 
 [Game Recommendation Platform Repo](https://github.com/sigreipel/GameAggregatorCapstone/tree/main)
 
-Django-based web application that aggregates and recommends video game news, updates, and developer information. It allows users to personalize their experience by following or blocking specific games or developers. The platform also includes a custom authentication system and a structured database design.
+Game Recommendation Platform is a Django-based web application that aggregates and recommends video game news, updates, and developer information. It allows users to personalize their experience by following or blocking specific games or developers. The platform also includes a custom authentication system and a structured database design.
 
 <ins>__Features:__</ins>
   Custom Authentication System

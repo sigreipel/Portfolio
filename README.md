@@ -10,7 +10,7 @@ I am a computer science graduate seeking a full-time job opportunity in software
 
 [Data Structures FP Repo](https://github.com/sigreipel/DataStructures-Final-Project)
 
-_Studio Ghibli Movie Explorer_ is an interactive program designed to retrieve and display information about Studio Ghibli films. The JSON data is obtained from the [Studio Ghibli API](https://ghibliapi.vercel.app/#), parsed into python data structures, sorted the films alphabetically using the insertion sort algorithm, and presented through a GUI built with Tkinter.
+_Studio Ghibli Movie Explorer_ is an interactive program designed to retrieve and display information about Studio Ghibli films. The JSON data is obtained from the [Studio Ghibli API](https://ghibliapi.vercel.app/#), parsed into Python data structures, sorted the films alphabetically using the insertion sort algorithm, and presented through a GUI built with Tkinter.
 
 <ins>Features:</ins>
   API Integration
@@ -25,7 +25,7 @@ _Studio Ghibli Movie Explorer_ is an interactive program designed to retrieve an
   
   Graphical User Interface
   
-  - Tkinter-based interface to display film details including title, director, release date, and description.
+  - Tkinter-based interface to display film details, including title, director, release date, and description.
   - Provides structured and user-friendly movie browsing.
   
   Data Structures
@@ -52,15 +52,43 @@ _Studio Ghibli Movie Explorer_ is an interactive program designed to retrieve an
 
 [Roman Numerals Repo](https://github.com/sigreipel/RomanNumerals)
 
-A small project that helps demonstrate my Python skills. 
-Takes in an input value and converts the value to either a Roman numeral or an integer.
-I have added additional unit tests in another folder called `Tests`.
+_Roman Numerals Converter_ is a Python-based utility designed to convert between Arabic numerals (standard integers) and Roman numerals. It includes both the core conversion logic `RomanNumerals.py` and a suite of tests `test_roman_numerals.py` to verify correctness and robustness. 
+
+<ins>Features:</ins>
+Bidirectional Conversion
+
+- Supports converting integers to Roman numerals and vice versa (also tested via unit tests in `test_roman_numerals.py` 
+
+Modular Design
+
+- Core conversion functions are encapsulated in `RomanNumerals.py`, allowing for reuse and extension.
+
+Test Suite
+
+- Automated tests ensure the conversion logic handles typical cases, edge cases, and invalid inputs reliably. 
+
+<ins>TechStack:</ins>
+
+Language: Python (100%) 
+
+Structure:
+
+- `RomanNumerals.py`: Conversion logic
+- `test_roman_numerals.py`: Unit tests
+
+<ins>Future Improvements</ins>
+
+- Add input validation and error handling—for example, rejecting zero, negatives, or values above the standard Roman numeral range.
+- Extend support for subtractive notation beyond the classical range (e.g., overline notation for values > 3,999).
+- Develop a CLI (command-line interface) with arguments to allow users to easily convert values via the terminal.
+- Incorporate a graphical user interface (GUI) or web front-end for improved user interaction.
+- Expand the test suite to cover edge cases more comprehensively, including invalid strings and formatting variants.
 
 ## Peg Solitaire Game: 
 
 [Peg Solitaire Repo](https://github.com/sigreipel/PegSolitaireGame)
 
-Peg Solitaire Game is a Python-based implementation of the puzzle Peg Solitaire. The program simulates a board created in the `square.txt`, rules are defined in `Rules.txt`, and manages game progression and victory conditions in `EliminationGame.py`.
+_Peg Solitaire Game_ is a Python-based implementation of the puzzle Peg Solitaire. The program simulates a board created in the `square.txt`, rules are defined in `Rules.txt`, and manages game progression and victory conditions in `EliminationGame.py`.
 
 <ins>Features:</ins>
 
@@ -82,7 +110,7 @@ Gameplay Management
 
 Language: Python
 
-Input: square.txt for board layout
+Input: `square.txt` for board layout
 
 Modules:
 
@@ -102,7 +130,7 @@ Modules:
 
 [Game Recommendation Platform Repo](https://github.com/sigreipel/GameAggregatorCapstone/tree/main)
 
-Game Recommendation Platform is a Django-based web application that aggregates and recommends video game news, updates, and developer information. It allows users to personalize their experience by following or blocking specific games or developers. The platform also includes a custom authentication system and a structured database design.
+_Game Recommendation Platform_ is a Django-based web application that aggregates and recommends video game news, updates, and developer information. It allows users to personalize their experience by following or blocking specific games or developers. The platform also includes a custom authentication system and a structured database design.
 
 <ins>__Features:__</ins>
   Custom Authentication System
